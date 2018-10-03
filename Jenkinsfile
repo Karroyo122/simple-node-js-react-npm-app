@@ -17,5 +17,5 @@ pipeline {
                 sh './jenkins/scripts/test.sh' 
             }
         }
-
+    }
 }
